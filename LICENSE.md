@@ -1,0 +1,2 @@
+Estos datos están disponibles bajo la licencia de base de datos abierta: http://opendatacommons.org/licenses/odbl/1.0/.
+Una versión resumida se encuentra disponible en https://opendatacommons.org/licenses/odbl/summary/
