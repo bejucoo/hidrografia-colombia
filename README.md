@@ -9,4 +9,4 @@ Se organizaron tres archivos por cada departamento:
 
 - **Fronteras:** ```departamento_fronteras.geojson```
 - **Ríos estrictamente dentro del área de la frontera** creado con la herramienta *Intersection*: ```departamento_rios_Clip.geojson```
-- **Ríos con alguna influencia en el área de la frontera** creado con la herramienta *Select by Location*: ```departamento_rios_NoClip.geojson```
+- **Ríos con alguna influencia en el área de la frontera** creado con la herramienta *Select by Location*: ```departamento_rios_noClip.geojson```
