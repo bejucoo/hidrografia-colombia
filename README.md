@@ -12,4 +12,4 @@ Hasta ahora se organizaron tres archivos por cada departamento:
 - **Ríos con alguna influencia en el área de la frontera** creado con la herramienta *Select by Location*: ```departamento_rios_noClip.geojson```
 
 Por hacer:
-- Archivo con polígonos y líneas de otros cuerpos de agua como lagos, lagunas y siénagas.
+- Archivo con polígonos y líneas de otros cuerpos de agua como lagos, lagunas y ciénagas.
