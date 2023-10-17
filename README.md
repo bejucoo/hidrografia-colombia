@@ -5,8 +5,11 @@ Se crearon usando [QGIS v3.32.3-Lima](https://www.qgis.org/en/site/) con datos d
 
 Filtros utilizados: ```'waterway' = ['canal', 'dam', 'ditch', 'dock', 'drain', 'river', 'stream', 'tidal_channel', 'waterfall', 'weir', 'yes']```
 
-Se organizaron tres archivos por cada departamento:
+Hasta ahora se organizaron tres archivos por cada departamento:
 
 - **Fronteras:** ```departamento_fronteras.geojson```
 - **Ríos estrictamente dentro del área de la frontera** creado con la herramienta *Intersection*: ```departamento_rios_Clip.geojson```
 - **Ríos con alguna influencia en el área de la frontera** creado con la herramienta *Select by Location*: ```departamento_rios_noClip.geojson```
+
+Por hacer:
+- Archivo con polígonos y líneas de otros cuerpos de agua como lagos, lagunas y siénagas.
